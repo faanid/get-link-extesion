@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Save http",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "link.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
